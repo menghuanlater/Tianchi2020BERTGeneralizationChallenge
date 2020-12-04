@@ -1,0 +1,2 @@
+# Tianchi2020BERTGeneralizationChallenge
+2020 阿里云天池中文预训练语言模型多任务泛化能力挑战赛
